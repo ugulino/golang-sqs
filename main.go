@@ -80,5 +80,6 @@ func main() {
 
 		// Intervalo entre as leituras
 		time.Sleep(5 * time.Second)
+
 	}
 }
